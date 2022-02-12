@@ -28,7 +28,6 @@ animations and sound effects.
 10. Back-end routing rules enabling full control over the content and routes you serve.
 11. Generated staging versions powered by pull requests enabling preview versions of your site before publishing.
 
-
 <br><br>
 <h2>📌 Important links :</h2>
 <br><br>
@@ -36,6 +35,12 @@ animations and sound effects.
 <br>
 <h3><a href="https://youtu.be/qakM3yN-8Es">Here is the project demo:</a></h3>
 <br><br>
+
+<h2>📌 Problem statement :</h2>
+<br>
+<p>Festivals are larger than life celebrations of various things. They occur at regular intervals and helping in breaking the monotony of life. Furthermore, they give you the chance to celebrate the little and big things in life. Festivals are the carriers of peace and joy in the communities. All nations of the world have certain religious and cultural festivals. Festivals are very important. They make us forget our cultural and religious differences. They unite people and they come together for the sole purpose of celebration and happiness. Other than that, festivals also help us embrace our culture and religion. They are very helpful in breaking the monotony of life.</p>
+<br><br>
+
 
 ## 📌 Main Page:
 <br><br>
