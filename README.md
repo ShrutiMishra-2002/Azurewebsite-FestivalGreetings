@@ -1,6 +1,5 @@
 ## Festival-Greeting-Website
 
-<h2> Website Link : </h2> 
 <br>
 <p>This project is a festival greeting website which i made using HTML, CSS and javascript. 
 For hosting I have used Azure Static web app, Azure Static Web Apps is a service that automatically 
