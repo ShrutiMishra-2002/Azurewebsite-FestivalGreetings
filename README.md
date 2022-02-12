@@ -30,6 +30,12 @@ animations and sound effects.
 
 
 <br><br>
+<h2>📌 Important links :</h2>
+<br><br>
+<h2><a href="https://witty-ocean-0a192f510.1.azurestaticapps.net/">Here is the azure website:</a></h2>
+<br>
+<h2><a href="https://youtu.be/qakM3yN-8Es">Here is the project demo:</a></h2>
+<br><br>
 
 ## 📌 Main Page:
 <br><br>
@@ -88,12 +94,6 @@ animations and sound effects.
 <img src="readmeimage/republic3.png" alt="republic3" width="700px" height="400px">
 <br><br>
 
-<h2>📌 Important links :</h2>
-<br><br>
-<a href="https://witty-ocean-0a192f510.1.azurestaticapps.net/">Here is the azure website:</a>
-<br>
-<a href="https://youtu.be/qakM3yN-8Es">Here is the project demo:</a>
-<br><br>
 
 <br>
 <div align="center">
