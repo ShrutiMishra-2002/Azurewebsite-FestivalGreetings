@@ -32,9 +32,9 @@ animations and sound effects.
 <br><br>
 <h2>📌 Important links :</h2>
 <br><br>
-<h2><a href="https://witty-ocean-0a192f510.1.azurestaticapps.net/">Here is the azure website:</a></h2>
+<h3><a href="https://witty-ocean-0a192f510.1.azurestaticapps.net/">Here is the azure website:</a></h3>
 <br>
-<h2><a href="https://youtu.be/qakM3yN-8Es">Here is the project demo:</a></h2>
+<h3><a href="https://youtu.be/qakM3yN-8Es">Here is the project demo:</a></h3>
 <br><br>
 
 ## 📌 Main Page:
