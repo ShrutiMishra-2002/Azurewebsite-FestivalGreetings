@@ -1,9 +1,4 @@
-/**
-* Template Name: Ninestars - v4.7.0
-* Template URL: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
@@ -110,7 +105,7 @@
   }, true)
 
   /**
-   * Scrool with ofset on links with a class name .scrollto
+   * Scroll with ofset on links with a class name .scrollto
    */
   on('click', '.scrollto', function(e) {
     if (select(this.hash)) {
@@ -196,38 +191,38 @@
   /**
    * Clients Slider
    */
-  new Swiper('.clients-slider', {
-    speed: 400,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
-    },
-    slidesPerView: 'auto',
-    pagination: {
-      el: '.swiper-pagination',
-      type: 'bullets',
-      clickable: true
-    },
-    breakpoints: {
-      320: {
-        slidesPerView: 2,
-        spaceBetween: 40
-      },
-      480: {
-        slidesPerView: 3,
-        spaceBetween: 60
-      },
-      640: {
-        slidesPerView: 4,
-        spaceBetween: 80
-      },
-      992: {
-        slidesPerView: 6,
-        spaceBetween: 120
-      }
-    }
-  });
+  // new Swiper('.clients-slider', {
+  //   speed: 400,
+  //   loop: true,
+  //   autoplay: {
+  //     delay: 5000,
+  //     disableOnInteraction: false
+  //   },
+  //   slidesPerView: 'auto',
+  //   pagination: {
+  //     el: '.swiper-pagination',
+  //     type: 'bullets',
+  //     clickable: true
+  //   },
+  //   breakpoints: {
+  //     320: {
+  //       slidesPerView: 2,
+  //       spaceBetween: 40
+  //     },
+  //     480: {
+  //       slidesPerView: 3,
+  //       spaceBetween: 60
+  //     },
+  //     640: {
+  //       slidesPerView: 4,
+  //       spaceBetween: 80
+  //     },
+  //     992: {
+  //       slidesPerView: 6,
+  //       spaceBetween: 120
+  //     }
+  //   }
+  // });
 
   /**
    * Animation on scroll

@@ -705,7 +705,7 @@ section {
 /*--------------------------------------------------------------
 # F.A.Q
 --------------------------------------------------------------*/
-.faq {
+/* .faq {
   padding: 60px 0;
 }
 .faq .faq-list {
@@ -756,12 +756,12 @@ section {
 .faq .faq-list .collapsed .icon-close {
   display: none;
   transition: 0.6s;
-}
+} */
 
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
-.team {
+/* .team {
   background: #fff;
   padding: 60px 0;
 }
@@ -835,12 +835,12 @@ section {
 .team .member:hover .social {
   left: 0;
   transition: left ease-in-out 0.3s;
-}
+} */
 
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
-.clients .clients-slider .swiper-slide img {
+/* .clients .clients-slider .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
 }
@@ -860,12 +860,12 @@ section {
 }
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #eb5d1e;
-}
+} */
 
 /*--------------------------------------------------------------
 # Contact Us
 --------------------------------------------------------------*/
-.contact .info {
+/* .contact .info {
   border-top: 3px solid #eb5d1e;
   border-bottom: 3px solid #eb5d1e;
   padding: 30px;
@@ -1012,7 +1012,7 @@ section {
   100% {
     transform: rotate(360deg);
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Footer
